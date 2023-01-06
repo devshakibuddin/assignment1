@@ -7,6 +7,7 @@
 
 main{
     max-width: 1140px;
+    margin: 0 auto;
 }
 
 .btn-primary{
@@ -81,3 +82,39 @@ main{
     padding-top: 8px;
     padding-right: 10px;
 }
+/* failures section ended */
+/* My Plane Section styles Started */
+
+
+.my-plans{
+    text-align: center;
+}
+.section-tittle{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom: 50px;
+}
+
+.plan-details{
+    display: flex;
+    gap: 85px;
+    justify-content: center;
+}
+.my-plans h4{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    padding-top: 24px;
+    padding-bottom: 16px;
+}
+.my-plans p{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
+
+/* My plan section styles ended */
