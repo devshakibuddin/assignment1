@@ -118,3 +118,27 @@ main{
 }
 
 /* My plan section styles ended */
+/* Mindset Section styles start */
+
+.mindset-part {
+	background-image: linear-gradient(to right, rgba(43, 0, 255, 0.84), rgba(0, 0, 0, 0.6)), url(images/watch.png);
+	background-repeat: no-repeat;
+	margin: 130px 0;
+}
+
+.mindset-details{
+    padding: 60px 65px;
+}
+
+.mindset-part-tittle{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    padding-bottom: 24px;
+}
+
+/* Mindset Section styles Ended */
+
+/* Contact Section start */
+
