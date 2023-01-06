@@ -5,6 +5,10 @@
     font-family: 'Work Sans', sans-serif;
 }
 
+main{
+    max-width: 1140px;
+}
+
 .btn-primary{
     background-color: #FFFFFF;
     border: 0;
@@ -48,3 +52,32 @@
     padding-bottom: 32px;
 }
 /* header section Ended */
+/* Failures section styles started */
+.failures-part{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    margin: 130px 0;
+}
+
+.failure-tittle{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+
+.failures-description{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    padding-top: 24px;
+    padding-bottom: 16px;
+}
+
+.failures-details i{
+    padding-top: 8px;
+    padding-right: 10px;
+}
