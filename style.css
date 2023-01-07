@@ -142,3 +142,74 @@ main{
 
 /* Contact Section start */
 
+.contact-part{
+    background: #151414;
+    color: #FFFFFF;
+}
+
+.contact{
+    display: flex;
+    gap: 330px;
+    padding: 130px 0;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.future-tittle{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+}
+
+.future-description{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    width: 485px;
+    padding-top: 16px;
+    padding-bottom: 24px;
+}
+
+.contact-email{
+    padding-bottom: 16px;
+}
+
+.social-media{
+    margin-top: 32px;
+}
+
+.social-media img{
+    margin-right: 8px;
+}
+
+.contact-subscribe h6{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    padding-bottom: 30px;
+}
+
+.email{
+    background: #151414;
+    border: 1px solid #fff;
+    width: 100%;
+    color: #FFF;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.subscribe{
+    background-color: #005FAC
+    ;
+    border: 0;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding: 20px;
+}
+
+/* Footer section ended */
+
