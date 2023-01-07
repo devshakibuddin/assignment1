@@ -118,12 +118,37 @@ main{
 }
 
 /* My plan section styles ended */
+/* Resume Section styles start */
+
+.resume-part {
+	background-image: linear-gradient(to right, rgba(1, 1, 1, 0.84), rgba(0, 38, 255, 0.6));
+	background-repeat: no-repeat;
+	margin: 130px 0;
+    display: flex;
+    justify-content: right;
+    text-align: right;
+    border-radius: 8px;
+}
+
+.resume-details{
+    padding: 60px 65px;
+}
+
+.resume-part-tittle{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    padding-bottom: 24px;
+}
+/* Resume section Ended*/
 /* Mindset Section styles start */
 
 .mindset-part {
 	background-image: linear-gradient(to right, rgba(43, 0, 255, 0.84), rgba(0, 0, 0, 0.6)), url(images/watch.png);
 	background-repeat: no-repeat;
 	margin: 130px 0;
+    border-radius: 8px;
 }
 
 .mindset-details{
